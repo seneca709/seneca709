@@ -1,5 +1,4 @@
-- 👀 I’m interested in security
-- 🌱 I’m currently learning theory of cybersecurity and training practical skills through containers
+- 🌱 I’m currently learning theory of cybersecurity and training practical skills through containers(THM)
 - 📫 How to reach me solgaleo@tutamail.com
 - Web related projects are founded at my other github account: totoro253
 - Currently following the course: Pre security, section Networking(updated at 1-5-2024)
